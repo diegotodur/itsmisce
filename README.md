@@ -15,9 +15,7 @@
 <div align="center">
   <a href="" target="blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmisce&theme=dark&hide_border=false" alt="miscelanneo" height="150" width="250" /></a>
 </div>
-<div align="center">
- <a href="" target="blank"><img src="https://github.com/itsmisce/itsmisce/blob/main/stats.gif" alt="miscelanneo" width="350" height="200" /></a>
-</div>
+
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -33,4 +31,8 @@
 
 <h2 align="center">You can help me by Donating:</h2> 
 <p align="center"><a href="https://paypal.me/miscelanneo" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="miscelanneo" height="30" width="100" /></a> </p>
+
+
+<h2 align="center">Look Disturb AI 🚀:</h2> 
+<p align="center"><a href="https://github.com/DisturbAI" target="blank"><img align="center" src="https://github.com/itsmisce/itsmisce/blob/main/disturbAI.png" alt="disturbai" height="150" width="150" /></a> </p>
 
