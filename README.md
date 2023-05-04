@@ -25,6 +25,11 @@
 <a href="https://discord.gg/! msc#2261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! msc#2261" height="30" width="40" /></a>
 </p>  <br>
 
+<div align="center">
+ <a href="" target="blank"><img src="https://github.com/itsmisce/itsmisce/blob/main/gif.gif" alt="miscelanneo" height="250" width="500" /></a>
+</div>
+
+
 <h2 align="center">You can help me by Donating:</h2> 
 <p align="center"><a href="https://paypal.me/miscelanneo" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="miscelanneo" height="30" width="100" /></a> </p>
 
