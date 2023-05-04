@@ -34,5 +34,5 @@
 
 
 <h2 align="center">Look Disturb AI 🚀:</h2> 
-<p align="center"><a href="https://github.com/DisturbAI" target="blank"><img align="center" src="https://github.com/itsmisce/itsmisce/blob/main/disturbAI.png" alt="disturbai" height="150" width="150" /></a> </p>
+<p align="center">A holding company in charge of developing technology-based projects<br><a href="https://github.com/DisturbAI" target="blank"><img align="center" src="https://github.com/itsmisce/itsmisce/blob/main/disturbAI.png" alt="disturbai" height="150" width="150" /></a> </p>
 
