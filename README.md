@@ -26,11 +26,11 @@
 
 <div align="center">
  <a href="" target="blank"><img src="https://github.com/itsmisce/itsmisce/blob/main/gif.gif" alt="miscelanneo" width="350" height="200" /></a>
-</div>
+</div> <br>
 
 
 <h2 align="center">You can help me by Donating</h2> 
-<p align="center"><a href="https://paypal.me/miscelanneo" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="miscelanneo" height="30" width="100" /></a> </p>
+<p align="center"><a href="https://paypal.me/miscelanneo" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="miscelanneo" height="30" width="100" /></a> </p> <br>
 
 
 <h2 align="center">Look Disturb AI 🚀</h2> 
