@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Diego Torres</h2>
 
-<p align="center"><img src="https://github.com/itsmisce/itsmisce/blob/main/readme.gif" alt="banner" width="700" height="350"/> <br><br> </p>
+<p align="center"><img src="https://github.com/itsmisce/itsmisce/blob/main/readme.gif" alt="banner" width="500" height="300"/> <br><br> </p>
 
 <h2 align="center">About Me:</h2>
 <p align="center"> 🤘I am 21 and I am currently doing a bootcamp to become a full stack developer. <br><br>📝I have a diploma in management and innovacion processes, as well as incomplete commercial engineering degree from UTFSM, Chile. <br><br>💡I consider myself someone with strong innovation skills, teamwork, fast learning and entrepreneurial mind.</p> <br>
