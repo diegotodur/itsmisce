@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Diego Torres</h2>
 
-<p align="center"><img src="https://github.com/itsmisce/itsmisce/blob/main/readme.gif" alt="banner" width="500" height="300"/> <br><br> </p>
+<p align="center"><img src="https://github.com/itsmisce/itsmisce/blob/main/readme.gif" alt="banner" width="350" height="200"/> <br><br> </p>
 
 <h2 align="center">About Me:</h2>
 <p align="center"> 🤘I am 21 and I am currently doing a bootcamp to become a full stack developer. <br><br>📝I have a diploma in management and innovacion processes, as well as incomplete commercial engineering degree from UTFSM, Chile. <br><br>💡I consider myself someone with strong innovation skills, teamwork, fast learning and entrepreneurial mind.</p> <br>
@@ -11,11 +11,12 @@
 <h2 align="center">GitHub Stats:</h2> <br>
 <div align="center">
   <a href="" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmisce&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="miscelanneo" height="150" width="250" /></a>
-  <span style="display:inline-block; width:50px;"></span>
+</div>
+<div align="center">
   <a href="" target="blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmisce&theme=dark&hide_border=false" alt="miscelanneo" height="150" width="250" /></a>
 </div>
 <div align="center">
- <a href="" target="blank"><img src="https://github.com/itsmisce/itsmisce/blob/main/stats.gif" alt="miscelanneo" height="250" width="500" /></a>
+ <a href="" target="blank"><img src="https://github.com/itsmisce/itsmisce/blob/main/stats.gif" alt="miscelanneo" width="350" height="200" /></a>
 </div>
 
 <h2 align="center">Connect with me:</h2>
@@ -26,7 +27,7 @@
 </p>  <br>
 
 <div align="center">
- <a href="" target="blank"><img src="https://github.com/itsmisce/itsmisce/blob/main/gif.gif" alt="miscelanneo" height="250" width="500" /></a>
+ <a href="" target="blank"><img src="https://github.com/itsmisce/itsmisce/blob/main/gif.gif" alt="miscelanneo" width="350" height="200" /></a>
 </div>
 
 
