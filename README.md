@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Diego Torres</h2>
 
-<p align="center"><img src="https://github.com/itsmisce/itsmisce/blob/main/readme.gif" alt="banner" width="350" height="200"/> <br><br> </p>
-
 <h2 align="center">About Me</h2>
 <p align="center"> 🤘I am 21 and I am currently doing a bootcamp to become a full stack developer. <br><br>📝I have a diploma in management and innovacion processes, as well as incomplete commercial engineering degree from UTFSM, Chile. <br><br>💡I consider myself someone with strong innovation skills, teamwork, fast learning and entrepreneurial mind.</p> <br>
 
@@ -28,11 +26,4 @@
  <a href="" target="blank"><img src="https://github.com/itsmisce/itsmisce/blob/main/gif.gif" alt="miscelanneo" width="350" height="200" /></a>
 </div> <br>
 
-
-<h2 align="center">You can help me by Donating</h2> 
-<p align="center"><a href="https://paypal.me/miscelanneo" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="miscelanneo" height="30" width="100" /></a> </p> <br>
-
-
-<h2 align="center">Look Disturb AI 🚀</h2> 
-<p align="center">A holding company in charge of developing technology-based projects<br><a href="https://github.com/DisturbAI" target="blank"><img align="center" src="https://github.com/itsmisce/itsmisce/blob/main/disturbAI.png" alt="disturbai" height="150" width="150" /></a> </p>
 
