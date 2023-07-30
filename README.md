@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm Diego Torres</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Diego+Torres)](https://git.io/typing-svg)
 
 <h2 align="center">About Me</h2>
-<p align="center"> 🤘I am 21 and I am currently finishing a Full Stack Developer bootcamp.. <br><br>📝I have a diploma in Management and Innovation Processes from Universidad Adolfo Ibañez, as well as incomplete commercial engineering from UTFSM, Chile. <br><br>💡I consider myself someone with strong innovation skills, teamwork and fast learning. </p> <br>
+<p align="center"> 🤘 I am a 21 year old Full Stack Developer <br><br>💡I consider myself someone with strong innovation skills, teamwork and fast learning. </p> <br>
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">Technology Stack</h2>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -27,24 +27,10 @@
     <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" alt="postgresql" width="40" height="40"/>
   </a>
 </p>
-  <br>
-
-<h2 align="center">GitHub Stats</h2> <br>
-<div align="center">
-  <a href="" target="blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmisce&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="miscelanneo" height="150" width="250" /></a>
-</div>
-<div align="center">
-  <a href="" target="blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmisce&theme=dark&hide_border=false" alt="miscelanneo" height="150" width="250" /></a>
-</div>
-
+<br>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://twitter.com/miscelanneo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miscelanneo" height="30" width="40" /></a>  <a href="https://linkedin.com/in/diegotorresdu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://cl.linkedin.com/in/diegotorresdu-820421186?" height="30" width="40" /></a>  <a href="https://discord.gg/! msc#2261" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! msc#2261" height="30" width="40" /></a> <a href="https://linktr.ee/itsmisce" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg" alt="linktree" height="30" width="40" /></a>
-</p>  <br>
-
-<div align="center">
- <a href="" target="blank"><img src="https://github.com/itsmisce/itsmisce/blob/main/gif.gif" alt="miscelanneo" width="350" height="200" /></a>
-</div> <br>
-
+<a href="https://linktr.ee/itsmisce" target="blank"><img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Linktree_logo.svg" alt="linktree" height="60" width="60" /></a>
+</p>
 
