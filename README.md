@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Diego+Torres)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=30A7DB&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Diego+Torres)](https://git.io/typing-svg)
 
 <h2 align="center">About Me</h2>
 <p align="center"> 🤘 I am a 21 year old Full Stack Developer <br><br>💡I consider myself someone with strong innovation skills, teamwork and fast learning. </p> <br>
